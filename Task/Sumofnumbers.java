@@ -1,8 +1,6 @@
 package My.Task;
 import java.util.Scanner;
-
 public class Sumofnumbers {
-
 	public static void main(String[] args) {
 	Scanner in = new Scanner(System.in);
 	System.out.println("Enter the number:- ");
